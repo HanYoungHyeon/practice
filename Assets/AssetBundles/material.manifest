@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1850805755
+CRC: 3269706975
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f0baa426b5533e913e0d140720d814da
+    Hash: 3b67a8bc4d22a51f80dcf7a02f549e25
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9373241baafe7684daf662ef4780ff70
@@ -16,6 +16,6 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Green Material.mat
-- Assets/Prefab/Red Material.mat
 - Assets/Prefab/Blue Material.mat
+- Assets/Prefab/Red Material.mat
 Dependencies: []

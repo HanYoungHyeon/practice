@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2647432613
+CRC: 25052533
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 86ef760bf117c535232e59e9dfd8ad20
+    Hash: 08f724b23781f11fd69cee1e727267c2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4db82f4e618e4630b2fa8228e9c6d8d1
@@ -25,8 +25,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefab/Cube (2).prefab
 - Assets/Prefab/Cube.prefab
 - Assets/Prefab/Cube (1).prefab
+- Assets/Prefab/Cube (2).prefab
 Dependencies:
 - C:/Users/shwuo/practice/Assets/AssetBundles/material

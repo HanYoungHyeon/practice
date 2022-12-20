@@ -345,4 +345,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7439bc2f09eba64398875e0689bb269, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bundleURL: 
+  assetName: 
   version: 0
